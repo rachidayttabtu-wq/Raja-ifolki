@@ -111,8 +111,8 @@
 <footer id="contact">
     <p>تواصل معنا عبر:</p>
     <div class="social">
-        <a href="https://wa.me/212600000000" target="_blank">واتساب</a>
-        <a href="https://instagram.com/" target="_blank">انستغرام</a>
+        <a href="https://wa.me/212709638995" target="_blank">واتساب</a>
+        <a href=https://www.instagram.com/rachid_et_tabtu?igsh=NGlyaWFpZWhiM3Rp"_blank">انستغرام</a>
     </div>
     <p>© 2025 ifolki raja - جميع الحقوق محفوظة</p>
 </footer>
